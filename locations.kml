@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for HAIRLAB.</name>
+		<atom:link rel="related" href="http://www.hairlab.net/" />
+		<atom:author>
+			<atom:name>HAIR-LAB</atom:name>
+		</atom:author>
+		<Folder>
+			<Placemark>
+				<name><![CDATA[HAIRLAB]]></name>
+				<address><![CDATA[2455 190th St. Suite B, Redondo Beach , CA , 90278 , USA]]></address>
+				<description><![CDATA[<div><br />
+<a href="http://www.hairlab.net/"><strong>HAIRLAB</strong></a><br />
+2455 190th St. Suite B<br/>
+Redondo Beach , CA , 90278 <br/>
+(866) 846-2588<br/>
+USA<br />
+</div>]]></description>
+				<Point>
+					<coordinates>-118.36607,33.85834,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
